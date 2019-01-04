@@ -1,0 +1,3 @@
+Hibernate ORM: http://hibernate.org/orm/
+JDBC Driver: https://dev.mysql.com/downloads/connector/j/
+
